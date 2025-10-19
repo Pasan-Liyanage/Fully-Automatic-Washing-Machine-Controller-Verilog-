@@ -14,7 +14,7 @@ This repository contains the complete design, Verilog HDL code, simulation testb
 - `src/` — Verilog source files (FSM, timer, IO modules)
 - `tb/` — Testbench files and simulation scripts
 - `docs/` — Block diagrams, FSM state diagrams, and project report
-- `waveforms/` — Example simulation outputs (VCD files, screenshots)
+- `sim/` — Example simulation outputs (VCD files, screenshots)
 
 ## Getting Started
 1. Clone the repository.
